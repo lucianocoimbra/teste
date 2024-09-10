@@ -1,2 +1,2 @@
 # teste
-Sistema Agenda do Bode
+Repositório da aula Git
